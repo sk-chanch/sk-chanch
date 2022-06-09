@@ -1,8 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-chanch&theme=radical&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-chanch&layout=compact&hide=objective-c,java)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/sk-chanch/sk-chanch))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-chanch&layout=compact&hide=objective-c,java)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-chanch&repo=RxHubConnection)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/sk-chanch/sk-chanch))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-chanch&repo=RxHubConnection)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sk-chanch/sk-chanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
