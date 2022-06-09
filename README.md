@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-chanch&theme=radical&hide=contribs,prs&show_icons=true)](https://github.com/sk-chanch)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-chanch&theme=radical&show_icons=true)](https://github.com/sk-chanch)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-chanch&hide=objective-c,java)](https://github.com/sk-chanch)
 
