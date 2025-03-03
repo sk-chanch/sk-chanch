@@ -4,6 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-chanch&repo=RxHubConnection&theme=radical)](https://github.com/sk-chanch/RxHubConnection)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-chanch&repo=QuillSwiftUI&theme=radical)](https://github.com/sk-chanch/QuillSwiftUI)
+
 <!--
 **sk-chanch/sk-chanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
